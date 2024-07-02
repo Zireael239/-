@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bab09606-892a-47d0-808e-4a2f1103d428" name="Changes" comment="" />
+    <list default="true" id="bab09606-892a-47d0-808e-4a2f1103d428" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +62,18 @@
       <option name="presentableId" value="Default" />
       <updated>1719912697356</updated>
     </task>
+    <task id="LOCAL-00001" summary="Начало проекта">
+      <created>1719912891471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719912891471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Начало проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Начало проекта" />
   </component>
 </project>
